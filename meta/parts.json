@@ -1,0 +1,11 @@
+{
+    "default": {
+        "viewer": {
+            "scale": 0.2
+        },
+        "compatibility": {
+            "frekvens": true,
+            "takt": true
+        }
+    }
+}
