@@ -2,7 +2,7 @@
     "lamp-holder": {
         "name": "Lamp Holder",
         "description": "",
-        "preview": "",
+        "preview": "meta/images/lamp-holder-preview.jpg",
         "parts": {
             "takt.stl": { "quantity": 1 },
             "takt-lamp-shade.stl": { "quantity": 1 },
@@ -12,6 +12,7 @@
             "connector-angled.stl": { "quantity": 4 },
             "e27-socket": {
                 "name": "Lamp Socket E27",
+                "quantity": 1,
                 "description": "Works with most of the E27 sockets I've tried.",
                 "extra": true,
                 "link": "https://www.clasohlson.com/se/Lamph&aring;llare-med-tygkl&auml;dd-sladd-Northlight/p/36-6235",
@@ -19,6 +20,7 @@
             },
             "lightbulb": {
                 "name": "A lightbulb",
+                "quantity": 1,
                 "extra": true
             }
         }
