@@ -7,5 +7,12 @@
             "frekvens": true,
             "takt": true
         }
-    }
+    },
+    "takt.stl": {"viewer": { "scale": 0.025 } },
+    "4-takt.stl": { "viewer": { "scale": 0.025 }},
+    "8-takt.stl": { "viewer": { "scale": 0.05 } },
+    "connector-hinge.stl": { "viewer": { "scale": 0.1 } },
+    "nut.stl": {},
+    "screw.stl": {},
+    "takt-lamp-shade.stl": { "viewer": { "scale": 0.025 } }
 }
