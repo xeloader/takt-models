@@ -3,6 +3,7 @@
         "name": "Lamp Holder",
         "description": "",
         "preview": "meta/images/lamp-holder-preview.jpg",
+        "manual": null,
         "parts": {
             "takt.stl": { "quantity": 1 },
             "takt-lamp-shade.stl": { "quantity": 1 },
@@ -29,6 +30,7 @@
         "name": "Tech Box",
         "description": "Box for Raspberry Pi or other small computers. Pro tip, balenaSound on the RPI will make your frekvens speaker Spotify compatible.",
         "preview": "meta/images/tech-box-2.jpg",
+        "manual": null,
         "parts": {
             "takt.stl": { "quantity": 1 },
             "screw.stl": { "quantity": 8 },
