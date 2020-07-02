@@ -24,5 +24,18 @@
                 "extra": true
             }
         }
+    },
+    "tech-box": {
+        "name": "Tech Box",
+        "description": "Box for Raspberry Pi or other small computers. Pro tip, balenaSound on the RPI will make your frekvens speaker Spotify compatible.",
+        "preview": "meta/images/tech-box-2.jpg",
+        "parts": {
+            "takt.stl": { "quantity": 1 },
+            "screw.stl": { "quantity": 8 },
+            "nut.stl": { "quantity": 8 },
+            "connector-angled.stl": { "quantity": 4 },
+            "takt-tunnel.stl": { "quantity": 1 },
+            "takt-circle-film.stl": { "quantity": 1 }
+        }
     }
 }
