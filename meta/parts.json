@@ -13,10 +13,26 @@
             "notes": null
         }
     },
-    "takt.stl": {"viewer": { "scale": 0.025 } },
-    "4-takt.stl": { "viewer": { "scale": 0.025 }},
-    "8-takt.stl": { "viewer": { "scale": 0.05 } },
-    "connector-hinge.stl": { "viewer": { "scale": 0.1 } },
+    "takt.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    },
+    "4-takt.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    },
+    "8-takt.stl": {
+        "viewer": {
+            "scale": 0.05
+        }
+    },
+    "connector-hinge.stl": {
+        "viewer": {
+            "scale": 0.1
+        }
+    },
     "nut.stl": {
         "printSettings": {
             "resolution": 0.1,
@@ -29,5 +45,9 @@
             "notes": "Use \"Z Hop When Retracted\" if printing multiple screws."
         }
     },
-    "takt-lamp-shade.stl": { "viewer": { "scale": 0.025 } }
+    "takt-lamp-shade.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    }
 }
