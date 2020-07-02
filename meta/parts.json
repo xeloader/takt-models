@@ -6,13 +6,28 @@
         "compatibility": {
             "frekvens": true,
             "takt": true
+        },
+        "printSettings": {
+            "resolution": 0.3,
+            "material": "PLA",
+            "notes": null
         }
     },
     "takt.stl": {"viewer": { "scale": 0.025 } },
     "4-takt.stl": { "viewer": { "scale": 0.025 }},
     "8-takt.stl": { "viewer": { "scale": 0.05 } },
     "connector-hinge.stl": { "viewer": { "scale": 0.1 } },
-    "nut.stl": {},
-    "screw.stl": {},
+    "nut.stl": {
+        "printSettings": {
+            "resolution": 0.1,
+            "notes": "Use \"Z Hop When Retracted\" if printing multiple nuts."
+        }
+    },
+    "screw.stl": {
+        "printSettings": {
+            "resolution": 0.1,
+            "notes": "Use \"Z Hop When Retracted\" if printing multiple screws."
+        }
+    },
     "takt-lamp-shade.stl": { "viewer": { "scale": 0.025 } }
 }
