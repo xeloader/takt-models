@@ -32,6 +32,18 @@
             "scale": 0.05
         }
     },
+    "8-takt-circle-hole-frame.stl": {
+        "category": "eight",
+        "viewer": {
+            "scale": 0.05
+        }
+    },
+    "8-takt-flat.stl": {
+        "category": "eight",
+        "viewer": {
+            "scale": 0.05
+        }
+    },
     "connector-hinge.stl": {
         "category": "base",
         "viewer": {
@@ -76,6 +88,34 @@
     "takt-circle-film.stl": {
         "viewer": {
             "scale": 0.025
+        }
+    },
+    "connector-hook.stl": {
+        "viewer": {
+            "scale": 0.1
+        }
+    },
+    "connector.stl": {
+        "viewer": {
+            "scale": 0.1
+        }
+    },
+    "connector-long.stl": {
+        "viewer": {
+            "scale": 0.05
+        }
+    },
+    "dimensioner.stl": {
+        "viewer": {
+            "scale": 0.1
+        }
+    },
+    "frek-connector-hinge.stl": {
+        "compatibility": {
+            "takt": false
+        },
+        "viewer": {
+            "scale": 0.1
         }
     },
     "takt-tunnel.stl": {
