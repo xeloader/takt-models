@@ -1,5 +1,6 @@
 {
     "default": {
+        "category": null,
         "viewer": {
             "scale": 0.025
         },
@@ -14,26 +15,31 @@
         }
     },
     "takt.stl": {
+        "category": "base",
         "viewer": {
             "scale": 0.025
         }
     },
     "4-takt.stl": {
+        "category": "base",
         "viewer": {
             "scale": 0.025
         }
     },
     "8-takt.stl": {
+        "category": "eight",
         "viewer": {
             "scale": 0.05
         }
     },
     "connector-hinge.stl": {
+        "category": "base",
         "viewer": {
             "scale": 0.1
         }
     },
     "nut.stl": {
+        "category": "base",
         "viewer": {
             "scale": 0.1
         },
@@ -43,6 +49,7 @@
         }
     },
     "screw.stl": {
+        "category": "base",
         "viewer": {
             "scale": 0.1
         },
