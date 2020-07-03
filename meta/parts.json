@@ -1,7 +1,7 @@
 {
     "default": {
         "viewer": {
-            "scale": 0.2
+            "scale": 0.025
         },
         "compatibility": {
             "frekvens": true,
@@ -34,18 +34,44 @@
         }
     },
     "nut.stl": {
+        "viewer": {
+            "scale": 0.1
+        },
         "printSettings": {
             "resolution": 0.1,
             "notes": "Use \"Z Hop When Retracted\" if printing multiple nuts."
         }
     },
     "screw.stl": {
+        "viewer": {
+            "scale": 0.1
+        },
         "printSettings": {
             "resolution": 0.1,
             "notes": "Use \"Z Hop When Retracted\" if printing multiple screws."
         }
     },
     "takt-lamp-shade.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    },
+    "connector-angled.stl": {
+        "viewer": {
+            "scale": 0.04
+        }
+    },
+    "takt-circle-hole-frame.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    },
+    "takt-circle-film.stl": {
+        "viewer": {
+            "scale": 0.025
+        }
+    },
+    "takt-tunnel.stl": {
         "viewer": {
             "scale": 0.025
         }
