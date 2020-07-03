@@ -46,11 +46,17 @@
     },
     "connector-hinge.stl": {
         "category": "base",
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.1
         }
     },
     "nut.stl": {
+        "compatibility": {
+            "frekvens": false
+        },
         "category": "base",
         "viewer": {
             "scale": 0.1
@@ -106,6 +112,9 @@
         }
     },
     "dimensioner.stl": {
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.1
         }
