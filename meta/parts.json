@@ -47,6 +47,10 @@
             "scale": 0.05
         }
     },
+    "takt-fence.stl": {
+        "category": "plate",
+        "orderWeight": 90
+    },
     "8-takt-flat.stl": {
         "category": "eight",
         "compatibility": {
@@ -58,6 +62,7 @@
     },
     "connector-hinge.stl": {
         "category": "base",
+        "orderWeight": 95,
         "compatibility": {
             "frekvens": false
         },
@@ -66,6 +71,7 @@
         }
     },
     "nut.stl": {
+        "orderWeight": 96,
         "compatibility": {
             "frekvens": false
         },
@@ -80,6 +86,7 @@
     },
     "screw.stl": {
         "category": "base",
+        "orderWeight": 97,
         "viewer": {
             "scale": 0.1
         },
@@ -89,6 +96,10 @@
         }
     },
     "takt-lamp-shade.stl": {
+        "orderWeight": 86,
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.025
         }
@@ -99,11 +110,14 @@
         }
     },
     "takt-circle-hole-frame.stl": {
+        "orderWeight": 88,
+        "category": "plate",
         "viewer": {
             "scale": 0.025
         }
     },
     "takt-circle-film.stl": {
+        "category": "plate",
         "viewer": {
             "scale": 0.025
         }
@@ -124,6 +138,7 @@
         }
     },
     "dimensioner.stl": {
+        "orderWeight": 96,
         "compatibility": {
             "frekvens": false
         },
