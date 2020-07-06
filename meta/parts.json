@@ -28,18 +28,27 @@
     },
     "8-takt.stl": {
         "category": "eight",
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.05
         }
     },
     "8-takt-circle-hole-frame.stl": {
         "category": "eight",
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.05
         }
     },
     "8-takt-flat.stl": {
         "category": "eight",
+        "compatibility": {
+            "frekvens": false
+        },
         "viewer": {
             "scale": 0.05
         }
