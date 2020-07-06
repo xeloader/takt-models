@@ -1,6 +1,7 @@
 {
     "default": {
         "category": null,
+        "orderWeight": -1,
         "viewer": {
             "scale": 0.025
         },
@@ -16,12 +17,14 @@
     },
     "takt.stl": {
         "category": "base",
+        "orderWeight": 100,
         "viewer": {
             "scale": 0.025
         }
     },
     "4-takt.stl": {
         "category": "base",
+        "orderWeight": 98,
         "viewer": {
             "scale": 0.025
         }
