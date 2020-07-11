@@ -1,6 +1,6 @@
 {
     "lamp-holder": {
-        "name": "Lamp Holder",
+        "name": "Spotlight",
         "description": "",
         "preview": "meta/images/lamp-holder-preview.jpg",
         "manual": null,
@@ -10,7 +10,7 @@
             "takt-circle-hole-frame.stl": { "quantity": 1 },
             "screw.stl": { "quantity": 8 },
             "nut.stl": { "quantity": 8 },
-            "connector-hinge.stl": { "quantity": 4 },
+            "dimensioner.stl": { "quantity": 4 },
             "e27-socket": {
                 "name": "Lamp Socket E27",
                 "quantity": 1,
@@ -35,7 +35,7 @@
             "takt.stl": { "quantity": 1 },
             "screw.stl": { "quantity": 8 },
             "nut.stl": { "quantity": 8 },
-            "connector-hinge.stl": { "quantity": 4 },
+            "dimensioner.stl": { "quantity": 4 },
             "takt-tunnel.stl": { "quantity": 1 },
             "takt-circle-film.stl": { "quantity": 1 }
         }
