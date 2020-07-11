@@ -39,5 +39,16 @@
             "takt-tunnel.stl": { "quantity": 1 },
             "takt-circle-film.stl": { "quantity": 1 }
         }
+    },
+    "frekvens-faceplates": {
+        "name": "Faceplates for FREKVENS",
+        "preview": "meta/images/faceplates-1-preview.gif",
+        "parts": {
+            "screw.stl": { "quantity": 4 },
+            "nut.stl": { "quantity": 4 },
+            "frek-connector-hinge.stl": { "quantity": 2 },
+            "takt-fence.stl": { "quantity": 1 },
+            "takt-circle-hole-frame.stl": { "quantity": 1 }
+        }
     }
 }
