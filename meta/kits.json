@@ -41,14 +41,32 @@
         }
     },
     "frekvens-faceplates": {
-        "name": "Faceplates for FREKVENS",
-        "preview": "meta/images/faceplates-1-preview.gif",
+        "name": "Faceplates 1",
+        "description": "Only for FREKVENS.",
+        "preview": "meta/images/faceplates-1-preview.jpg",
         "parts": {
             "screw.stl": { "quantity": 4 },
             "nut.stl": { "quantity": 4 },
             "frek-connector-hinge.stl": { "quantity": 2 },
             "takt-fence.stl": { "quantity": 1 },
             "takt-circle-hole-frame.stl": { "quantity": 1 }
+        }
+    },
+    "frekvens-tertial-lamp": {
+        "name": "Mount for IKEA TERTIAL",
+        "preview": "meta/images/tertial-preview.jpg",
+        "description": "Mount your FREKVENS light or speaker on TERTIAL lamp arm.",
+        "parts": {
+            "screw.stl": { "quantity": 4 },
+            "frek-connector-tertial.stl": { "quantity": 1 },
+            "ikea-tertial": {
+              "name": "IKEA Tertial",
+              "quantity": 1,
+              "description": "Remove the metal connector attached to head the of the lamp and the head itself. You do not need the plastic piece.",
+              "extra": true,
+              "link": "https://www.ikea.com/se/sv/p/tertial-arbetslampa-moerkgra-50355395/",
+              "preview": "https://www.ikea.com/se/sv/images/products/tertial-arbetslampa-moerkgra__0609306_pe684440_s5.jpg?f=xl"
+          }
         }
     }
 }

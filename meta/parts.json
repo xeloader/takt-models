@@ -158,5 +158,19 @@
         "viewer": {
             "scale": 0.025
         }
+    },
+    "frek-mount-tertial.stl": {
+      "viewer": {
+        "scale": 0.05
+      },
+      "printSettings": {
+        "resolution": 0.2,
+        "notes": "60% infill on test prints. Molto bene."
+      }
+    },
+    "stand-mount.stl": {
+      "viewer": {
+        "scale": 0.05
+      }
     }
 }
